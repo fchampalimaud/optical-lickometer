@@ -1,29 +1,20 @@
 ## General description
 
-bla bla liuckometer.
+This repository contains the design files for the assembly of a high-precision optical fiber based lickometer for mice.
+
 
 !["lickometer"](./Assets/lickometer.png)
 
 ----
 
-## Key Features
+## Features
 
-//TO change
-* 119 dB SNR (A-weighted 80kHz bandwidth)
-* Unity gain
-* <0.03% distortion @ 1W
-* Supports 4Ohms speaker @ 1W
-* Spectral variation <0.1dB 20Hz - 80kHz
-
-----
-
-## Connectivity
-
-// TO change
-* 2x 12V supply input
-* 1x RCA input
-* 2x 4mm banana outputs
-* 1x power switch
+* Fiber optic based lickometer
+* Dual detection of licks and pokes
+* TTL outputs
+* Embedded poke LED 
+* Support for a low profile solenoid valve
+* RJ jack connector and screw terminal interface
 
 ----
 

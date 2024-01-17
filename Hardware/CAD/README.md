@@ -15,15 +15,15 @@ Please see below a generic description of the files in this directory:
 
 |File name | Description|
 |-|-|
-|Lickometer_Dual_Detection_Fiber_Optics-1 | Poke 3D |
-|Lickometer_Dual_Detection_Fiber_Optics-2 | Poke 3D |
-|Lickometer_Dual_Detection_Fiber_Optics-3 | Poke 3D |
-|Lickometer_Dual_Detection_Fiber_Optics-4_M | Poke 3D - for males |
-|Lickometer_Dual_Detection_Fiber_Optics-4_F | Poke 3D - for females |
-|Lickometer_Dual_Detection_Fiber_Optics-5 | Poke 3D |
-|Lickometer_Dual_Detection_Fiber_Optics-6 | Poke 3D |
-|Lickometer_Dual_Detection_Fiber_Optics_LED_Holder | LEDs holder | 
-|Lickometer_Dual_Detection_Fiber_Optics_Photo_Holder | Photosensors holder |
+|Lickometer_Dual_Detection_Fiber_Optics-1 | Poke 3D|
+|Lickometer_Dual_Detection_Fiber_Optics-2 | Poke 3D|
+|Lickometer_Dual_Detection_Fiber_Optics-3 | Poke 3D|
+|Lickometer_Dual_Detection_Fiber_Optics-4_M | Poke 3D - for males|
+|Lickometer_Dual_Detection_Fiber_Optics-4_F | Poke 3D - for females|
+|Lickometer_Dual_Detection_Fiber_Optics-5 | Poke 3D|
+|Lickometer_Dual_Detection_Fiber_Optics-6 | Poke 3D|
+|Lickometer_Dual_Detection_Fiber_Optics_LED_Holder | LEDs holder| 
+|Lickometer_Dual_Detection_Fiber_Optics_Photo_Holder | Photosensors holder|
 
 
 
@@ -37,7 +37,7 @@ Please see below a generic description of the files in this directory:
 
 |File name | Description|
 |-|-|
-|Lickometer_exploded_view.pdf | 2D drawings |
+|Lickometer_exploded_view.pdf | 2D drawings|
 |Lickometer_model_v1.easm | 3D CAD Model|
 
 
