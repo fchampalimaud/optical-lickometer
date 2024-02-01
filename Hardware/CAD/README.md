@@ -15,15 +15,15 @@ Please see below a generic description of the files in this directory:
 
 |File name | Description|
 |-|-|
-|Lickometer_Dual_Detection_Fiber_Optics-1.stl | Poke 3D|
-|Lickometer_Dual_Detection_Fiber_Optics-2.stl | Poke 3D|
-|Lickometer_Dual_Detection_Fiber_Optics-3.stl | Poke 3D|
-|Lickometer_Dual_Detection_Fiber_Optics-4_M.stl | Poke 3D - for males|
-|Lickometer_Dual_Detection_Fiber_Optics-4_F.stl | Poke 3D - for females|
-|Lickometer_Dual_Detection_Fiber_Optics-5.stl | Poke 3D|
-|Lickometer_Dual_Detection_Fiber_Optics-6.stl | (optional) Spout friction controller|
-|Lickometer_Dual_Detection_Fiber_Optics_LED_Holder.stl | LEDs holder| 
-|Lickometer_Dual_Detection_Fiber_Optics_Photo_Holder.stl | Photosensors holder|
+|Lickometer_Dual_Detection_Optical_Fiber-1.stl | Poke 3D|
+|Lickometer_Dual_Detection_Optical_Fiber-2.stl | Poke 3D|
+|Lickometer_Dual_Detection_Optical_Fiber-3.stl | Poke 3D|
+|Lickometer_Dual_Detection_Optical_Fiber-4_M.stl | Poke 3D - for males|
+|Lickometer_Dual_Detection_Optical_Fiber-4_F.stl | Poke 3D - for females|
+|Lickometer_Dual_Detection_Optical_Fiber-5.stl | Poke 3D|
+|Lickometer_Dual_Detection_Optical_Fiber-6.stl | (optional) Spout friction controller|
+|Lickometer_Dual_Detection_Optical_Fiber_LED_Holder.stl | LEDs holder| 
+|Lickometer_Dual_Detection_Optical_Fiber_Photo_Holder.stl | Photosensors holder|
 
 
 
@@ -31,13 +31,12 @@ Please see below a generic description of the files in this directory:
 
 |File name | Description|
 |-|-|
-|Lickometer_BOM.xls | Lickometer list of materials|
+|Lickometer_BOM.xlsx | Lickometer list of materials|
  
 ## 3D Model ##
 
 |File name | Description|
 |-|-|
-|Lickometer_exploded_view.pdf | 2D drawings|
 |Lickometer_model_v1.easm | 3D CAD Model|
 
 
