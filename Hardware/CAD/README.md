@@ -26,6 +26,12 @@ Please see below a generic description of the files in this directory:
 |Lickometer_Dual_Detection_Optical_Fiber_Photo_Holder.stl | Photosensors holder|
 
 
+## Assembly Instructions ##
+
+|File name | Description|
+|-|-|
+|Assembly_instructions.pdf | Lickometer assembly guide|
+
 
 ## Bill of Materials ##
 
