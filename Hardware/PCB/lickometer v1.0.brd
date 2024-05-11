@@ -175,7 +175,8 @@
 <text x="-14.5" y="-16.4324" size="1.778" layer="21" font="vector">Licensed under the TAPR Open 
 Hardware License (www.tapr.org/OHL)
 
-Copyright 2022 Artur Silva and Scientific Hardware Platform</text>
+Copyright 2022 Artur Silva
+Champalimaud Foundation</text>
 <text x="23.6204" y="78.8256" size="0.8128" layer="22" font="vector" ratio="12" rot="MR0" align="center">Licensed under the TAPR Open 
 Hardware License (www.tapr.org/OHL)</text>
 <text x="0.554" y="71.65" size="0.8128" layer="21" font="vector" ratio="12">GND</text>

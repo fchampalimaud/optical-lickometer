@@ -10167,8 +10167,8 @@ Source: http://www.analog.com/static/imported-files/data_sheets/AD8655_8656.pdf<
 <text x="290.83" y="8.89" size="1.778" layer="94">Licensed under the TAPR Open 
 Hardware License (www.tapr.org/OHL)
 
-Copyright 2022 Artur Silva and 
-Scientific Hardware Platform</text>
+Copyright 2022 Artur Silva
+Champalimaud Foundation</text>
 <text x="213.36" y="195.58" size="2.54" layer="97">(lick)</text>
 <text x="210.82" y="121.92" size="2.54" layer="97">(poke)</text>
 <text x="330.2" y="198.12" size="1.778" layer="97" rot="R90">assembly option IR</text>
