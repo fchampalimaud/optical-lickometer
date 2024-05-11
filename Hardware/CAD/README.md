@@ -9,6 +9,7 @@ Please see below a generic description of the files in this directory:
 |File name | Description|
 |-|-|
 |Acrylic_Plates_Lickometer_5mm_v1.pdf | 5mm acrylic part (white)|
+|Acrylic_Plates_Panel_Mount_Example_5mm_v1.pdf | 5mm acrylic part (white)|
 
 
 ## 3D Printed Parts ##
