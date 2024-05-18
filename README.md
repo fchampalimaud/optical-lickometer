@@ -20,7 +20,7 @@ This repository contains the design files for the assembly of a high-precision o
 ## Folder structure
 
     .
-    ├── Bonsai                  # Bonsai workflow example
+    ├── Bonsai                  # Bonsai workflows
     ├── Hardware                # Design files
     │   ├── CAD                 # Mechanical design files, BOM and assembly instructions
     │   └── PCB                 # Schematic, layout and BOM of electronic board
